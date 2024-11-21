@@ -16,4 +16,4 @@ Pour prendre en compte le fichier JSON
 - taper la commande "php -S localhost:8000"
 - ouvrir un navigateur et saisir l'URL "localhost:8000"
 
-Autre possibilité : utiliser Wamp (mettre le dossier du projet à la racine)
+Autre possibilité : utiliser Wamp (mettre le dossier du projet à la racine : wamp64/www/)
