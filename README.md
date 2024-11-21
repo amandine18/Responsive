@@ -9,3 +9,11 @@ Eléments utilisés
 - 3 breakpoints (seuils à utiliser dans les media queries)
 - un bloc avec un scroll horizontal
 - un fichier JSON dont les données sont récupérées et affichées en PHP
+
+Pour prendre en compte le fichier JSON
+- ouvrir un terminal
+- se positionner dans le dossier où se situent les fichiers du projet
+- taper la commande "php -S localhost:8000"
+- ouvrir un navigateur et saisir l'URL "localhost:8000"
+
+Autre possibilité : utiliser Wamp (mettre le dossier du projet à la racine)
